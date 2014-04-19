@@ -20,23 +20,3 @@ textarea{
     vertical-align: middle;
     text-align: center;
 }
-.top-buffer {
-    margin-top:10px;
-}
-.attribute > input[type=checkbox]{
-  display:none;
-}
-input[type=checkbox] + img{
-  cursor:pointer;
-  border:2px solid transparent;
-  opacity: 0.4;
-}
-input[type=checkbox]:checked + img{
-  opacity: 1;
-}
-#hidden-div{
-    display:block;
-    height:0px;
-    width:0px;
-    overflow:hidden;
-}
