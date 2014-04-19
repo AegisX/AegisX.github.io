@@ -1,4 +1,6 @@
-
+html{
+    height: 100%;
+}
 body {
     background: url('../images/jugg.jpg');
     background-attachment: fixed;
