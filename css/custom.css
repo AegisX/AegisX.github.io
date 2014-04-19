@@ -8,7 +8,13 @@ body {
     height: 100%;
     padding: 10% 0;
 }
+img{
+    border:2px solid black;
+}
+textarea{
+    resize: none;
 
+}
 }
 .jumbotron{
     background-color: rgba(255, 255, 255, 0.8);
